@@ -1,4 +1,4 @@
-const port = 3003
+const port = 3000
 
 const express = require('express')
 const server = express()
