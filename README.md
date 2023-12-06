@@ -10,6 +10,28 @@
 
 # Prerequisites
 
+<h2 align="left">Backend</h2>
+Npm 6.14.17
+Node v14.20.1
+
+<h2 align="left">Frontend</h2>
+
+
 # Instalation
+Dev:
+
+npm i --save-dev -E nodemon@1.11.0
+
+Prod:
+npm i --save
 
 # Execution
+<h2 align="left">MondoDB</h2>
+mongod --dbpath \mongodb\data
+
+<h2 align="left">Backend</h2>
+npm run dev
+
+<h2 align="left">Frontend</h2>
+npm run dev
+
