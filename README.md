@@ -11,8 +11,8 @@
 # Prerequisites
 
 <h2 align="left">Backend</h2>
-Npm 6.14.17
-Node v14.20.1
+<p>Npm 6.14.17</p>
+<p>Node v14.20.1</p>
 
 <h2 align="left">Frontend</h2>
 
