@@ -19,8 +19,7 @@
 
 # Instalation
 Dev:
-
-npm i --save-dev -E nodemon@1.11.0
+npm i --save-dev
 
 Prod:
 npm i --save
